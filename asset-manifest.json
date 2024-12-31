@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shreyajshetty/calorie-counter/static/css/main.77a9ad33.css",
+    "main.js": "/shreyajshetty/calorie-counter/static/js/main.656fa8ea.js",
+    "index.html": "/shreyajshetty/calorie-counter/index.html",
+    "main.77a9ad33.css.map": "/shreyajshetty/calorie-counter/static/css/main.77a9ad33.css.map",
+    "main.656fa8ea.js.map": "/shreyajshetty/calorie-counter/static/js/main.656fa8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a9ad33.css",
+    "static/js/main.656fa8ea.js"
+  ]
+}
